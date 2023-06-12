@@ -7,7 +7,7 @@ const NewTodoForm = ({}) => {
         <div>
             <form action={newTodo}>
                 <input type="text"  className="border border-black"/>
-                <button type="submit">create</button>
+                <button type="submit">new todo</button>
             </form>
         </div>
     )

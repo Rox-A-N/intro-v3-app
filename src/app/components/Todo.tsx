@@ -1,5 +1,5 @@
 'use client'
-import { completeTodo } from '@/utils/actions'
+import { completeTodo } from '../_utils/actions'
 import { useTransition } from 'react'
 
 const Todo = ({ todo }) => {
