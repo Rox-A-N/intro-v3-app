@@ -1,5 +1,7 @@
-const SettingsPage = () => {
-    return <div>SettingsPage</div>
+// console.log(process.argv)
+
+const TodosPage= () => {
+    return <div>Todos Page</div>
 }
 
-export default SettingsPage
+export default TodosPage
