@@ -11,3 +11,10 @@ Template: fine for animations, repeatable useEffect- runs every time, but why?
 
 
 npx prisma migrate dev --name init
+
+
+## Tech Used
+Thunder
+Warp
+Vercel- for hosting because Next.js created this, so hosting should be smoother thru this 
+Netlify- a good alternative to Vercel

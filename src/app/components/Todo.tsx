@@ -1,6 +1,7 @@
 'use client'
+
 import { completeTodo } from '../_utils/actions'
-import { useTransition } from 'react'
+import { useTransition } from 'react'   // mostly data loading, not a priority
 
 const Todo = ({ todo }) => {
   const [isPending, startTransition] = useTransition()
